@@ -3,6 +3,3 @@ public class MyProgram {
         System.out.println("Hello, World!");
     }
 }
-
-
-
